@@ -5,11 +5,11 @@ target/
 
 ### IntelliJ IDEA ###
 */.idea/*
-.idea/*
+.idea/*.xml
 *.iws
 *.iml
 *.ipr
-
+Maven*.xml
 ### Eclipse ###
 .apt_generated
 .classpath
